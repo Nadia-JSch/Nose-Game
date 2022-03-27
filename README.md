@@ -1,6 +1,8 @@
-# Nose-Game 👃🏽
+# Nose-Game 🏽
 
-Play as a nose and avoid germs! 🧫 To win collide with the loo paper 😆
+👃 Play as a nose and avoid the germs! :space_invader: 
+
+To win collide with the loo paper. 😆
 
 ## Description
 
