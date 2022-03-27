@@ -2,7 +2,7 @@
 
 👃 Play as a nose and avoid the germs! :space_invader: 
 
-To win collide with the loo paper. 😆
+Collide with the loo paper to win. 😆
 
 ## Description
 
