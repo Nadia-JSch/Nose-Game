@@ -18,9 +18,19 @@ The aim of the project is to demonstrate competence in using variables, data typ
 
 ### Running the program
 
-* Run the nose_game.py file in any Python IDE. 
+* Run the nose_game.py file in any Python IDE. Make sure the images are in the same folder.
 
 ### Preview
 ![Nose Game SGrab](https://user-images.githubusercontent.com/98525884/160280486-3ad88399-5316-45c3-b07c-6a05e41750fc.png)
 
 > Oh no! Protect your nose next time!
+
+## Authors
+
+Nadia Schmidtke [get in touch](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
+
+
+## License
+
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/Nose-Game/blob/master/LICENSE).
+
