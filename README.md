@@ -27,7 +27,7 @@ The aim of the project is to demonstrate competence in using variables, data typ
 
 ## Authors
 
-Nadia Schmidtke [get in touch](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
+Nadia Schmidtke [get in touch](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages/Contact.html)
 
 
 ## License
